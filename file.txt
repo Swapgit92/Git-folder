@@ -1,3 +1,4 @@
 This is my file and we are learning Git//Git hub
 We are exploring git branching stratagy
 Welcome to Git session
+Today is Monday
