@@ -1,1 +1,2 @@
-This is new file
+int a =100
+int b =200
